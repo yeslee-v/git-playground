@@ -1,1 +1,1 @@
-Training '어맨드'
+Training 'amend'
